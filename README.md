@@ -1,45 +1,37 @@
 <div align="center">
 
-# Biruk Tesfaye
-### Backend Engineer • SaaS Developer • System Architect
+# Biruk Tesfaye  
+Backend Engineer & SaaS Systems Developer
 
-Building reliable backend systems and scalable SaaS products.
-
----
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0C0C0C&height=2)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=2)
 
 </div>
 
-## About Me
-I am a backend engineer with 4+ years of experience designing and developing production systems.  
-My work focuses on clean backend architecture, modular systems, and building SaaS platforms from the ground up.
-
-I’ve built systems for property management, transportation, content platforms, job matching, education, and clinic operations.
+## Overview
+Backend-focused engineer with experience building full SaaS platforms, system architectures, and automation services.  
+I work primarily with Node.js/NestJS, Laravel, and Django, and I deploy production systems end-to-end.
 
 ---
 
-## Tech Stack
-- **Backend:** NestJS, Node.js, Laravel, Django  
-- **Languages:** TypeScript, PHP, Python  
-- **Databases:** PostgreSQL, Redis, MongoDB, MariaDB  
-- **Infrastructure:** Docker, DigitalOcean, Nginx, Cloudflare, PM2  
-- **Patterns:** DDD, Modular Monoliths, Microservices, CQRS  
+## Skills
+**Backend:** NestJS, Node.js, Laravel, Django  
+**Databases:** PostgreSQL, Redis, MongoDB  
+**Infrastructure:** Docker, DigitalOcean, Nginx  
+**Architecture:** DDD, Modular Monolith, Microservices  
 
 ---
 
-## Projects
-- Akeray PMS  
-- Kabba Transport  
-- Maraki  
-- Emebet  
-- TuteApp  
-- LinQ  
-- CookLikeMe  
-- Dental & Laundry Management Systems  
-- JobPing Platform  
+## Work
+Projects I’ve built include:
+
+- Property management systems  
+- Ride & transport platforms  
+- Dating and social apps  
+- Job-matching systems  
+- Educational and clinic management platforms  
+- Automation and multi-LLM services  
 
 ---
 
-## Contact
-GitHub: https://github.com/biruke49  
+## Links
+GitHub: https://github.com/biruke49
