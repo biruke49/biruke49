@@ -1,37 +1,42 @@
 <div align="center">
 
-# Biruk Tesfaye  
-Backend Engineer & SaaS Systems Developer
+# Biruk Tesfaye
+Backend Engineer • System Designer • SaaS Developer
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=2)
+![line](https://capsule-render.vercel.app/api?type=rect&color=111111&height=2)
 
 </div>
 
-## Overview
-Backend-focused engineer with experience building full SaaS platforms, system architectures, and automation services.  
-I work primarily with Node.js/NestJS, Laravel, and Django, and I deploy production systems end-to-end.
+## Introduction
+I am a backend engineer experienced in building scalable software systems and full SaaS solutions.  
+My work ranges from property management and transportation platforms to job-matching, content apps, and workflow automation.
 
 ---
 
-## Skills
-**Backend:** NestJS, Node.js, Laravel, Django  
-**Databases:** PostgreSQL, Redis, MongoDB  
-**Infrastructure:** Docker, DigitalOcean, Nginx  
-**Architecture:** DDD, Modular Monolith, Microservices  
+## Core Technologies
+- NestJS / Node.js  
+- Laravel / PHP  
+- Python / Django  
+- PostgreSQL, Redis, MongoDB  
+- Docker, DigitalOcean, Nginx  
+- Clean Architecture, DDD, Microservices  
 
 ---
 
-## Work
-Projects I’ve built include:
+## Projects
+Some platforms I’ve built or contributed to:
 
-- Property management systems  
-- Ride & transport platforms  
-- Dating and social apps  
-- Job-matching systems  
-- Educational and clinic management platforms  
-- Automation and multi-LLM services  
+- Akeray PMS  
+- Kabba Transport  
+- Maraki  
+- Emebet  
+- TuteApp  
+- LinQ  
+- CookLikeMe  
+- Dental & Laundry Systems  
+- JobPing Scraper  
 
 ---
 
-## Links
+## Contact
 GitHub: https://github.com/biruke49
