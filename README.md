@@ -1,31 +1,34 @@
 <div align="center">
 
 # Biruk Tesfaye
-Backend Engineer • System Designer • SaaS Developer
+### Backend Engineer • SaaS Developer • System Architect
 
-![line](https://capsule-render.vercel.app/api?type=rect&color=111111&height=2)
-
-</div>
-
-## Introduction
-I am a backend engineer experienced in building scalable software systems and full SaaS solutions.  
-My work ranges from property management and transportation platforms to job-matching, content apps, and workflow automation.
+Building reliable backend systems and scalable SaaS products.
 
 ---
 
-## Core Technologies
-- NestJS / Node.js  
-- Laravel / PHP  
-- Python / Django  
-- PostgreSQL, Redis, MongoDB  
-- Docker, DigitalOcean, Nginx  
-- Clean Architecture, DDD, Microservices  
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0C0C0C&height=2)
+
+</div>
+
+## About Me
+I am a backend engineer with 4+ years of experience designing and developing production systems.  
+My work focuses on clean backend architecture, modular systems, and building SaaS platforms from the ground up.
+
+I’ve built systems for property management, transportation, content platforms, job matching, education, and clinic operations.
+
+---
+
+## Tech Stack
+- **Backend:** NestJS, Node.js, Laravel, Django  
+- **Languages:** TypeScript, PHP, Python  
+- **Databases:** PostgreSQL, Redis, MongoDB, MariaDB  
+- **Infrastructure:** Docker, DigitalOcean, Nginx, Cloudflare, PM2  
+- **Patterns:** DDD, Modular Monoliths, Microservices, CQRS  
 
 ---
 
 ## Projects
-Some platforms I’ve built or contributed to:
-
 - Akeray PMS  
 - Kabba Transport  
 - Maraki  
@@ -33,10 +36,10 @@ Some platforms I’ve built or contributed to:
 - TuteApp  
 - LinQ  
 - CookLikeMe  
-- Dental & Laundry Systems  
-- JobPing Scraper  
+- Dental & Laundry Management Systems  
+- JobPing Platform  
 
 ---
 
 ## Contact
-GitHub: https://github.com/biruke49
+GitHub: https://github.com/biruke49  
